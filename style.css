@@ -1,0 +1,26 @@
+*{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+body {
+	background: url('./boitumelo-o_tcYADlSt8-unsplash.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+   display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+   flex-direction: column;
+}
+.text {
+	color: rgb(255, 255, 255);
+   font-family: cursive;
+   text-align: center;
+   text-shadow: 2px 2px 4px #000000;
+}
+a{
+   text-decoration: none;
+   color: rgb(115, 239, 255);
+}
